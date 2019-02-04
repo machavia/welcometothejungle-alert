@@ -4,7 +4,7 @@ wttj (**welcometothejungle**) is a great job board!
 
 **For some reason the jobs are not sorted by date and there is no notification system.**
 
-In order to keep posted on newly added jobs I decided to code a tiny bot.
+In order to keep me posted with the newly added jobs I decided to code a tiny bot.
 
 Every time the bot is executed it will check all the jobs available on specific searches (see getting started). If there are new ones, you'll receive an email with the jobs title and a link to wttj.
 

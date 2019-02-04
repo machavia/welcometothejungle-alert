@@ -1,0 +1,17 @@
+{
+  "searches" : [
+    "https://www.welcometothejungle.co/jobs?refinementList%5Bcontract_type_names.fr%5D%5B0%5D=CDI&refinementList%5Boffice.district%5D%5B0%5D=Paris&refinementList%5Boffice.district%5D%5B1%5D=Hauts-de-Seine&refinementList%5Borganization.size%5D%5B0%5D=%3C%2015%20salari%C3%A9s&refinementList%5Borganization.size%5D%5B1%5D=Entre%2050%20et%20250%20salari%C3%A9s&refinementList%5Borganization.size%5D%5B2%5D=Entre%2015%20et%2050%20salari%C3%A9s&page=1&configure%5Bfilters%5D=website.reference%3Awttj_fr&configure%5BhitsPerPage%5D=30&query=CTO",
+    "https://www.welcometothejungle.co/jobs?refinementList%5Bcontract_type_names.fr%5D%5B0%5D=CDI&refinementList%5Boffice.district%5D%5B0%5D=Paris&refinementList%5Boffice.district%5D%5B1%5D=Hauts-de-Seine&refinementList%5Borganization.size%5D%5B0%5D=%3C%2015%20salari%C3%A9s&refinementList%5Borganization.size%5D%5B1%5D=Entre%2050%20et%20250%20salari%C3%A9s&refinementList%5Borganization.size%5D%5B2%5D=Entre%2015%20et%2050%20salari%C3%A9s&page=1&configure%5Bfilters%5D=website.reference%3Awttj_fr&configure%5BhitsPerPage%5D=30&query=engineer",
+  ],
+
+  "path" : "/Users/machavia/Code/wttj-scraper/jobs.json",
+  "jobsPerPage" : 30,
+  "mailer" : {
+    "host" : "smtp.wanadoo.fr",
+    "username" : "itsame",
+    "password" : "mario",
+    "port" : 587,
+    "from" : "mario@wanadoo.fr",
+    "to" : "luigi@wanadoo.fr"
+  }
+}
